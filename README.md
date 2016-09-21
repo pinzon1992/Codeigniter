@@ -1,4 +1,4 @@
-# Codeigniter
+# Codeigniter Libraries
 <b>Librerias para Codeigniter</b>
 
 <b>IPGenerator</b> es una libreria que se puede usar en Codeigniter para generar rangos de IPv4, para usarla es necesesario colocar IPGenerator.php en la carpeta application/libraries de Codeigniter.
