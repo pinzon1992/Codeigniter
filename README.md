@@ -1,5 +1,10 @@
-# Codeigniter Libraries
-<b>Librerias para Codeigniter</b>
+# CodeigniterUtils
+Este es un repositorio con varios scripts para CodeIgniter.
+
+<h3>Nucleo Codeigniter</h3>
+<b>MY_Router</b> es un extension del modulo de rutas de CodeIgniter que permite usar subcarpetas como controladores por default. Su uso es simple, se debe colocar este Script dentro de application->core y listo, luego podemos usar subcarpetas como controladores por default,por ejemplo: $route['default_controller'] = 'subcarpeta/controlador/funcion';
+
+<h3>Librerias para Codeigniter</h3>
 
 <b>IPGenerator</b> es una libreria que se puede usar en Codeigniter para generar rangos de IPv4, para usarla es necesesario colocar IPGenerator.php en la carpeta application/libraries de Codeigniter.
 Luego para llamar la libreria en algun controlador se la carga como otra libreria normal, ejemplo:
